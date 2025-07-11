@@ -6,7 +6,8 @@ A Python project that fetches and analyzes news using the NewsAPI. Supports keyw
 - Fetch news from trusted sources (BBC, CNN, Reuters, etc.)
 - Filter by search query and date
 - Ready for sentiment analysis and visualization
-
+- this also gives the sentiment through level or percentage.
+ 
 ## 🛠️ Setup
 
 ### Requirements
