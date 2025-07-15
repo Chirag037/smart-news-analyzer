@@ -18,7 +18,6 @@ A Python project that fetches and analyzes news using the NewsAPI. Supports keyw
 ### Install & Run
 
 ```bash
-pip install -r requirements.txt
 
 
 python main.py --api-key YOUR_API_KEY --query "AI" --days-back 2
