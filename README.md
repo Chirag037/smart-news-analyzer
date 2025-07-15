@@ -9,7 +9,7 @@ A Python project that fetches and analyzes news using the NewsAPI. Supports keyw
 - this also gives the sentiment through level or percentage.
  
 ## 🛠️ Setup  
-
+  
 
 ### Requirements
 - Python 3.8+
