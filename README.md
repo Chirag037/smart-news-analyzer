@@ -11,7 +11,7 @@ A Python project that fetches and analyzes news using the NewsAPI. Supports keyw
 ## 🛠️ Setup  
   
 
-### Requirements
+### Requirements  
 - Python 3.8+
 - NewsAPI key ([get one here](https://newsapi.org/))
 
